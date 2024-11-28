@@ -5,7 +5,11 @@ Desarrollo
 ¿Qué es un sistema ERP?
  Este sistema es un software que utilizan las organizaciones para que puedan gestionar sus actividades empresariales diarias, tales como la gestiòn de proyectos, la contabilidad,la gestiò de riesgo y el cumplimiento, entre otras, ya que asi estos procesos se pueden controlar automàticamente y funcionen asì con mayor eficacia.
 
-
+Tiene sentido estudiarlo ya que es primordial para cambiar la forma de responder a los clientes en poco tiempo.
+Es más rapido, mejores reseñas.
+La inversión se recupera en unos meses.
+EL ahorro de tiempo es propocional a una mejora en la eficacia de cada trabajador.
+Su uso es muy sencillo y fácil de entender.
 
  Sus ventajas son:
 
